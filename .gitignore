@@ -1,0 +1,10 @@
+*.npy
+*.csv
+*.pt
+*.pth
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+*.egg-info/
+dist/
+build/
